@@ -102,7 +102,7 @@ jobs:
       - name: Build OpenWrt
         run: |
           cd friendlywrt-h3
-          ./build.sh nanopi_r1s.mk
+          ./build.sh nanopi_r1s_h3.mk
       
       - name: Zip Files
         run: |

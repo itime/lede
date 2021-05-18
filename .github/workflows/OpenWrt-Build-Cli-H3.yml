@@ -6,7 +6,7 @@
 # <https://github.com/skytotwo/NanoPi-R1S-Build-By-Actions>
 #
 # Write by Jolly 2019/12/7
-# last update at 2019/12/19
+# last update by itime at 2021/05/18
 
 name: NanoPi-R1s H3 OpenWrt 19.07 Build
 
